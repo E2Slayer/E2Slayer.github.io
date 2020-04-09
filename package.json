@@ -27,5 +27,11 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "gulp-wait": "0.0.2"
+  },
+  "dependencies": {
+    "fund": "^1.0.0",
+    "gulp-cli": "^2.2.0",
+    "npm-watch": "^0.6.0",
+    "watch": "^1.0.2"
   }
 }
