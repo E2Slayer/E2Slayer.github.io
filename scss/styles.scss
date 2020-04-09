@@ -381,6 +381,12 @@ footer {
         color: lighten($base-color, 25%);
         font-weight: 500;
         font-size: 2.25em;
+    }
+
+    h3 {
+        color: lighten($base-color, 30%);
+        font-weight: 300;
+        font-size: 1.55em;
         margin-bottom: 15px;
     }
 }
